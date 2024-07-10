@@ -8,3 +8,5 @@
 
 ![Multihop Architecture](./images/book_data_processing.png)
 
+## Bronze Layer
+To populate data in Bronze layer, we are going to use Multiplex Approach
