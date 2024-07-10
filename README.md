@@ -10,3 +10,5 @@
 
 ## Bronze Layer
 To populate data in Bronze layer, we are going to use Multiplex Approach
+
+![Multiplex Pattern](./images/multiplex_pattern.png)
